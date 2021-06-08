@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="frame_work">
+        <item>Angular</item>
+        <item>Vue</item>
+        <item>Adonis</item>
+        <item>Bootstrap</item>
+        <item>Materialize</item>
+        <item>Laravel</item>
+        <item>CodeIgniter</item>
+        <item>Spring</item>
+        <item>RubyRails</item>
+        <item>Symfony</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Front-end</item>
+        <item>Front-end</item>
+        <item>Back-end</item>
+        <item>Front-end</item>
+        <item>Front-end</item>
+        <item>Back-end</item>
+        <item>Back-end</item>
+        <item>Back-end</item>
+        <item>Back-end</item>
+        <item>Back-end</item>
+
+
+    </string-array>
+</resources>
